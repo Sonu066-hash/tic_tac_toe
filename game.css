@@ -74,7 +74,12 @@ body {
     display: none;
 }
 
-.head {
-    color: #fff;
-    background-color: blue;
+.x {
+    color: #ff4dfd;
+    text-shadow: 0 0 10px #ff4dfd;
+}
+
+.o {
+    color: #339af0;
+    text-shadow: 0 0 10px #339af0;
 }
